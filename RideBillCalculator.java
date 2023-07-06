@@ -50,4 +50,17 @@ String wantPhotos=sc.next();
 }
 }
 
+Output:
 
+C:\Users\sarvesh.sonawane\Desktop\Calculator>javac RideBillCalculator.java
+
+C:\Users\sarvesh.sonawane\Desktop\Calculator>java RideBillCalculator
+enter height
+121
+Can ride
+enter age
+13
+$7
+want photos?
+Yes
++$3
